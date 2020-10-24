@@ -1,5 +1,5 @@
 {
-  "name": "@kiawildberger/vassalize",
+  "name": "vassalize-cli",
   "version": "1.0.2",
   "description": "a small and fun cli tool for quickly running discord bots",
   "author": "kiawildberger",
