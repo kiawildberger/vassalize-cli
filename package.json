@@ -1,8 +1,9 @@
 {
   "name": "vassalize",
-  "version": "2.0.0",
+  "version": "1.0.0",
   "author": "kiawildberger",
-  "homepage": "https://github.com/kiawildberger/vassalize-cli",
+  "publishConfig": {"registry": "https://npm.pkg.github.com/"},
+  "repository": "git://github.com/kiawildberger/vassalize-cli.git",
   "bugs": {
     "url": "https://github.com/kiawildberger/vassalize-cli/issues"
   },
