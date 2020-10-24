@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "author": "kiawildberger",
   "homepage": "https://github.com/kiawildberger/vassalize-cli",
-  
+  "bugs": {
+    "url": "https://github.com/kiawildberger/vassalize-cli/issues"
+  },
   "description": "a command-line tool for quickly running simple discord bots from a script",
   "bin": {
     "vassalize": "./bin/index.js"
