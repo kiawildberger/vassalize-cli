@@ -1,4 +1,5 @@
 #!c:/progra~1/nodejs/node
+#!/usr/bin/env node
 
 const clia = require("command-line-args")([
     {name:"token", alias: "t", type: String, multiple: false},
