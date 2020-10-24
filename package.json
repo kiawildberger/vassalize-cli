@@ -1,0 +1,13 @@
+{
+  "name": "vassalize",
+  "version": "1.0.0",
+  "description": "a command-line tool for quickly running simple discord bots from a script",
+  "bin": {
+    "vassalize": "./bin/index.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "command-line-args": "^5.1.1",
+    "discord.js": "^12.4.1"
+  }
+}
