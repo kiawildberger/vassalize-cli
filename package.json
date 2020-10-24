@@ -1,6 +1,9 @@
 {
   "name": "vassalize",
   "version": "1.0.0",
+  "author": "kiawildberger",
+  "homepage": "https://github.com/kiawildberger/vassalize-cli",
+  
   "description": "a command-line tool for quickly running simple discord bots from a script",
   "bin": {
     "vassalize": "./bin/index.js"
